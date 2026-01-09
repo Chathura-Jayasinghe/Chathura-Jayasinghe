@@ -4,10 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=chathura-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-jayasinghe" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
-</p>
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **AI/ML, Deep Learning, Computer Vision & LLM-based Applications**
@@ -83,17 +79,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathura-jayasinghe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chathura-jayasinghe" />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathura-Jayasinghe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathura-jayasinghe&show_icons=true&locale=en&theme=tokyonight" alt="chathura-jayasinghe" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura-Jayasinghe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathura-jayasinghe&theme=tokyonight" alt="chathura-jayasinghe" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chathura-Jayasinghe&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chathura-Jayasinghe&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff)
+
+</div>
 
 ---
 
