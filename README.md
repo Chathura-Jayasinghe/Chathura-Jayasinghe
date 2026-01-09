@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&width=1500&height=300&color=gradient&customColorList=6,11,18&text=Chathura%20Jayasinghe&fontSize=68&fontAlign=50&fontAlignY=40&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=65&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&width=1500&height=300&color=gradient&customColorList=2,3,4&text=Chathura%20Jayasinghe&fontSize=68&fontAlign=50&fontAlignY=40&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=65&fontColor=FFFFFF&animation=fadeIn)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chathura-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-jayasinghe" />
@@ -70,6 +70,5 @@
 <a href="https://www.instagram.com/chathura_1224/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/chathura.jayasinghe.90" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://medium.com/@chathurajayasinghe04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="https://huggingface.co/Chathura-Jayasinghe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="Hugging Face" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/chathurajayasin1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
