@@ -1,19 +1,4 @@
-![header](https://capsule-render.vercel.app/api?
-type=waving
-&width=1500
-&height=300
-&color=gradient
-&customColorList=6,11,18
-&text=Chathura%20Jayasinghe
-&fontSize=68
-&fontAlign=50
-&fontAlignY=35
-&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer
-&descSize=20
-&descAlign=50
-&descAlignY=60
-&fontColor=FFFFFF
-&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&width=1500&height=300&color=gradient&customColorList=6,11,18&text=Chathura%20Jayasinghe&fontSize=68&fontAlign=50&fontAlignY=35&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=60&fontColor=FFFFFF&animation=twinkling)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chathura-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-jayasinghe" />
@@ -79,8 +64,6 @@ type=waving
 
 ## 🌐 Connect with me
 
-
-
 <p align="left">
 <a href="https://linkedin.com/in/chathura jayasinghe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathura jayasinghe" height="30" width="40" /></a>
 <a href="https://twitter.com/chathura_1224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chathura_1224" height="30" width="40" /></a>
@@ -108,8 +91,6 @@ type=waving
 </a>
 
 <br/>
-
-<!-- [![Chathura's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chathura-Jayasinghe&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/Chathura-Jayasinghe) -->
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chathura-Jayasinghe&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
