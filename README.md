@@ -1,4 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&width=1500&height=280&color=gradient&customColorList=12,14,18,20,24&text=Chathura%20Jayasinghe&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&animation=fadeIn&stroke=00D9FF&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?
+type=waving
+&width=1500
+&height=300
+&color=gradient
+&customColorList=6,11,18
+&text=Chathura%20Jayasinghe
+&fontSize=68
+&fontAlign=50
+&fontAlignY=35
+&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer
+&descSize=20
+&descAlign=50
+&descAlignY=60
+&fontColor=FFFFFF
+&animation=twinkling)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chathura-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-jayasinghe" />
@@ -9,7 +24,7 @@
 - 🔭 I'm currently working on **AI/ML, Deep Learning, Computer Vision & LLM-based Applications**
 - 🌱 Specializing in **PyTorch, TensorFlow, LangChain, CrewAI & FastAPI**
 - 👯 I'm looking to collaborate on **Machine Learning, Deep Learning & AI Agent** projects
-- 💼 Experience with **Full-Stack Development (Flutter, Spring Boot) & Embedded Systems**
+- 💼 Experience with **Full-Stack Development & Embedded Systems**
 - 📫 Reach me at **chathurajayasinghe04@gmail.com**
 - ⚡ Fun fact: **I have a passion for music, cricket, rugby and swimming**
 
@@ -80,14 +95,24 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathura-Jayasinghe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura-Jayasinghe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+<a href="https://github.com/Chathura-Jayasinghe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chathura-Jayasinghe&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura-Jayasinghe&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chathura-Jayasinghe&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+<br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chathura-Jayasinghe&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff)
+<a href="https://github.com/Chathura-Jayasinghe">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura-Jayasinghe&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9"/>
+</a>
+
+<br/>
+
+<!-- [![Chathura's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chathura-Jayasinghe&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/Chathura-Jayasinghe) -->
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chathura-Jayasinghe&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
