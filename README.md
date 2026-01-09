@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&width=1500&height=300&color=gradient&customColorList=6,11,18&text=Chathura%20Jayasinghe&fontSize=68&fontAlign=50&fontAlignY=35&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=60&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&width=1500&height=300&color=gradient&customColorList=6,11,18&text=Chathura%20Jayasinghe&fontSize=68&fontAlign=50&fontAlignY=40&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=65&fontColor=FFFFFF&animation=fadeIn)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chathura-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-jayasinghe" />
@@ -65,40 +65,11 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/chathura jayasinghe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathura jayasinghe" height="30" width="40" /></a>
-<a href="https://twitter.com/chathura_1224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chathura_1224" height="30" width="40" /></a>
-<a href="https://kaggle.com/chathura jayasinghe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chathura jayasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/chathura_1224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathura_1224" height="30" width="40" /></a>
-<a href="https://fb.com/chathura jayasinghe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathura jayasinghe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chathurajayasin1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chathurajayasin1" height="30" width="40" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Chathura-Jayasinghe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chathura-Jayasinghe&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura-Jayasinghe&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Chathura-Jayasinghe">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura-Jayasinghe&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9"/>
-</a>
-
-<br/>
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chathura-Jayasinghe&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Chathura-Jayasinghe">Chathura Jayasinghe</a></i>
+<a href="https://www.linkedin.com/in/chathura-jayasinghe-22493621a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://x.com/Chathura_1224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chathura_1224/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chathura.jayasinghe.90" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://medium.com/@chathurajayasinghe04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://huggingface.co/Chathura-Jayasinghe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="Hugging Face" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/chathurajayasin1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
