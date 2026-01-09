@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&width=1500&height=300&color=gradient&customColorList=2,3,4&text=Chathura%20Jayasinghe&fontSize=68&fontAlign=50&fontAlignY=40&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=65&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&width=1500&height=300&color=gradient&customColorList=2,3,4&text=Chathura%20Jayasinghe&fontSize=68&fontAlign=50&fontAlignY=40&desc=Electrical%20Engineering%20(UG)%20|%20AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=65&fontColor=FFFFFF&animation=fadeIn)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chathura-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-jayasinghe" />
